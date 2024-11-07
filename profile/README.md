@@ -1,7 +1,13 @@
+
+![logo_montmay_bar](https://github.com/user-attachments/assets/192cffb6-fced-4962-9314-c4fec95d6c9e)
+
+
+
 🌐 Montmay Sp. z o.o. - Your Gateway to Reliable Internet Solutions
 
-👋 Welcome to Montmay Sp. z o.o.!
 As a trusted Internet Service Provider (ISP) in Poland, we are dedicated to keeping our clients seamlessly connected. At Montmay, we specialize in delivering fast, secure, and customizable internet solutions for homes and businesses. Our commitment is to provide an internet experience that meets the demands of modern digital life. 🚀
+
+# 👋 Welcome to Montmay Sp. z o.o.!
 
 🌍 About Us
 
