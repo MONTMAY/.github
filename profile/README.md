@@ -9,7 +9,6 @@ As a trusted Internet Service Provider (ISP) in Poland, we are dedicated to keep
 
 # 👋 Welcome to Montmay Sp. z o.o.!
 
-🌍 About Us
 
 Montmay Sp. z o.o. is more than an ISP; we’re a technology partner that understands the importance of reliable and secure connectivity. With a focus on quality, security, and innovation, we support our clients' digital journeys and help them thrive in a connected world.
 
